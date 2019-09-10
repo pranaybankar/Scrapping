@@ -1,5 +1,7 @@
 ## Sammary
 
+**Disclaimer:** This is just a practice & study purpose web scrapping. There is no intention to hurt any organisation or person.
+
 **Intro:**
 
 The projects are industry level cover the scrapping of SnapDeal website where the data sale for comparison purpose and financial forecasting; the link for scrapping- 
@@ -12,6 +14,7 @@ The projects are industry level cover the scrapping of SnapDeal website where th
 - Category - (breadcrumbs)
 
 **Note:**
+
 This site has an ajax call at the page end scroll where more products are loaded.
 So We took the SUPC code for every product shared by the client.
 
@@ -22,6 +25,7 @@ There are 3 steps involved in this scrapping.
 - Scrape the asked data from the actual url.
 
 **For example"** 
+
 - Use the below link for success and fail - 
 - Status - Fail
 - supc code - SDL281657177
