@@ -17,3 +17,5 @@ Write a crawler for Expedia.com . We need the below mentioned data in MongoDB (p
 **Expected Data on Dates:**
 
 You need to get all these data from 21st of May, 2016 to 25th of May, 2016 (There is will be 6 stay dates for this. So, 5 records expected) for each date.
+
+**Disclaimer:** This is just a practice & study purpose web scrapping. There is no intention to hurt any organisation or person.
