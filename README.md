@@ -1,4 +1,4 @@
-# Scrapping
+## Scrapping
 This Repo has some of the work done in the web scrapping  world from me.
 
 **Python_FaceBook**
@@ -10,3 +10,4 @@ Its a crawler for Expedia.com (Just for testing purpose.)
 **Python_Snapdeal**
 The projects are industry level cover the scrapping of SnapDeal website (Just for testing purpose.)
 
+**Disclaimer:** This is just a practice & study purpose web scrapping. There is no intention to hurt any organisation or person.
