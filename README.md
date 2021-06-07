@@ -8,6 +8,9 @@ This scrapping will not use the API of Facebook but the username and password to
 Its a crawler for Expedia.com
 
 **Python_Snapdeal**
-The projects are industry level cover the scrapping of SnapDeal website.
+The scrapping of SnapDeal website.
+
+**Dubizzle**
+The scrapping of Dubizzle website.
 
 **Disclaimer:** This is just a practice & study purpose web scrapping. There is no intention to hurt any organisation or person.
